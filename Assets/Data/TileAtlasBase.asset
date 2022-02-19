@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8545897ae0ee5b0419e40eef633adf0e, type: 3}
+  m_Name: TileAtlasBase
+  m_EditorClassIdentifier: 
+  tiles:
+  - tileIndex: 0
+    tileSprite: {fileID: -6215266440004211993, guid: b1c3bb63da2075844a557fc1b09d6277,
+      type: 3}
+    tileCollider: {fileID: -6215266440004211993, guid: b1c3bb63da2075844a557fc1b09d6277,
+      type: 3}
+    tilePixels: []
+  - tileIndex: 1
+    tileSprite: {fileID: -3637861154256867489, guid: b1c3bb63da2075844a557fc1b09d6277,
+      type: 3}
+    tileCollider: {fileID: -3637861154256867489, guid: b1c3bb63da2075844a557fc1b09d6277,
+      type: 3}
+    tilePixels: []
+  - tileIndex: 3
+    tileSprite: {fileID: -2641395387547776564, guid: b1c3bb63da2075844a557fc1b09d6277,
+      type: 3}
+    tileCollider: {fileID: -2641395387547776564, guid: b1c3bb63da2075844a557fc1b09d6277,
+      type: 3}
+    tilePixels: []
+  - tileIndex: 4
+    tileSprite: {fileID: 3112779744852645209, guid: b1c3bb63da2075844a557fc1b09d6277,
+      type: 3}
+    tileCollider: {fileID: 3112779744852645209, guid: b1c3bb63da2075844a557fc1b09d6277,
+      type: 3}
+    tilePixels: []
+  - tileIndex: 5
+    tileSprite: {fileID: -1455226028891953592, guid: b1c3bb63da2075844a557fc1b09d6277,
+      type: 3}
+    tileCollider: {fileID: -1455226028891953592, guid: b1c3bb63da2075844a557fc1b09d6277,
+      type: 3}
+    tilePixels: []
+  - tileIndex: 6
+    tileSprite: {fileID: -5004763356634907420, guid: b1c3bb63da2075844a557fc1b09d6277,
+      type: 3}
+    tileCollider: {fileID: -5004763356634907420, guid: b1c3bb63da2075844a557fc1b09d6277,
+      type: 3}
+    tilePixels: []
+  - tileIndex: 7
+    tileSprite: {fileID: -8418399932824709126, guid: b1c3bb63da2075844a557fc1b09d6277,
+      type: 3}
+    tileCollider: {fileID: -8418399932824709126, guid: b1c3bb63da2075844a557fc1b09d6277,
+      type: 3}
+    tilePixels: []
+  - tileIndex: 8
+    tileSprite: {fileID: 3663670603163406812, guid: b1c3bb63da2075844a557fc1b09d6277,
+      type: 3}
+    tileCollider: {fileID: 3663670603163406812, guid: b1c3bb63da2075844a557fc1b09d6277,
+      type: 3}
+    tilePixels: []
+  - tileIndex: 9
+    tileSprite: {fileID: -4979512232026433955, guid: b1c3bb63da2075844a557fc1b09d6277,
+      type: 3}
+    tileCollider: {fileID: -4979512232026433955, guid: b1c3bb63da2075844a557fc1b09d6277,
+      type: 3}
+    tilePixels: []
+  - tileIndex: 10
+    tileSprite: {fileID: 6521897088522972347, guid: b1c3bb63da2075844a557fc1b09d6277,
+      type: 3}
+    tileCollider: {fileID: 6521897088522972347, guid: b1c3bb63da2075844a557fc1b09d6277,
+      type: 3}
+    tilePixels: []
+  - tileIndex: 11
+    tileSprite: {fileID: -347561590475093216, guid: b1c3bb63da2075844a557fc1b09d6277,
+      type: 3}
+    tileCollider: {fileID: -347561590475093216, guid: b1c3bb63da2075844a557fc1b09d6277,
+      type: 3}
+    tilePixels: []
+  - tileIndex: 12
+    tileSprite: {fileID: 6454028535929433322, guid: b1c3bb63da2075844a557fc1b09d6277,
+      type: 3}
+    tileCollider: {fileID: 6454028535929433322, guid: b1c3bb63da2075844a557fc1b09d6277,
+      type: 3}
+    tilePixels: []

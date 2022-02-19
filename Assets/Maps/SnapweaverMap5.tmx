@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.0" orientation="orthogonal" renderorder="right-down" width="18" height="11" tilewidth="8" tileheight="8" infinite="0" nextlayerid="3" nextobjectid="1">
+ <editorsettings>
+  <export target="SnapweaverMap5.csv" format="csv"/>
+ </editorsettings>
+ <tileset firstgid="1" source="SnapweaverTileset.tsx"/>
+ <layer id="2" name="Background" width="18" height="11">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAYAiUCANgUAAAAMgAAADM0AAAANRUAAAAWJwAAACgmJTYQoBAv7QGwggs/ZSlMIqj8V32WfDYcoOJT8UCPX5GYiFgDy2j2E40B
+  </data>
+ </layer>
+ <layer id="1" name="Foreground" width="18" height="11">
+  <data encoding="base64" compression="zstd">
+   KLUv/WAYAoUCAPgfAAAAAQIAAAADAAAABAMEAwQgAgIIAAAACQAAAAoJE4CwclpzsSNbEwuv0xJCkDwbZ2ISj0KC0hLSPesTyjccLlgElgHQKkugEEhSo64F
+  </data>
+ </layer>
+</map>
